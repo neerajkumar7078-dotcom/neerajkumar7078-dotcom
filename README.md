@@ -1,9 +1,9 @@
-# Hi 👋 I'm Neeraj Kumar
+<img width="592" height="241" alt="image" src="https://github.com/user-attachments/assets/0f4da77f-66b4-4097-b42a-ce971c62865a" /># Hi 👋 I'm Neeraj Kumar
 
 ## ☁️ Cloud & DevOps Engineer
 
 I design and automate cloud infrastructure using Microsoft Azure, Terraform, and Azure DevOps.
-
+![](https://komarev.com/ghpvc/?username=neerajkumar7078-dotcom&color=0e75b6&style=flat)
 ---
 
 ### 🛠 Tech Stack

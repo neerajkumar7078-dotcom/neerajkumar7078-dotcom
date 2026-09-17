@@ -15,7 +15,13 @@ I design and automate cloud infrastructure using Microsoft Azure, Terraform, and
 ---
 
 ### 🚀 Current Focus
+---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=neerajkumar7078-dotcom&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=neerajkumar7078-dotcom&theme=tokyonight)
 - Azure Landing Zone
 - Infrastructure as Code (IaC)
 - CI/CD Pipelines

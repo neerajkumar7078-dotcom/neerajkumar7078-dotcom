@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Neeraj Kumar
 
-<!--
-**neerajkumar7078-dotcom/neerajkumar7078-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I design and automate cloud infrastructure using Microsoft Azure, Terraform, and Azure DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+- Microsoft Azure
+- Terraform
+- Azure DevOps
+- Git & GitHub
+- Linux
+- PowerShell
+
+---
+
+### 🚀 Current Focus
+
+- Azure Landing Zone
+- Infrastructure as Code (IaC)
+- CI/CD Pipelines
+
+---
+
+### 📍 Location
+
+Delhi NCR, India
+
+### 📫 Connect
+
+LinkedIn: linkedin.com/in/neeraj-kumar18

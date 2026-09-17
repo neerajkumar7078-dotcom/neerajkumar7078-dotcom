@@ -26,9 +26,10 @@ I design and automate cloud infrastructure using Microsoft Azure, Terraform, and
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neerajkumar7078-dotcom&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajkumar7078-dotcom&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=neerajkumar7078-dotcom&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=neerajkumar7078-dotcom&theme=tokyonight&hide_border=true)
+
 ---
 
 ### 📍 Location

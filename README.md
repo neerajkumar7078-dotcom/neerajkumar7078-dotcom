@@ -8,12 +8,9 @@ I design and automate cloud infrastructure using Microsoft Azure, Terraform, and
 
 ### 🛠 Tech Stack
 
-- Microsoft Azure
-- Terraform
-- Azure DevOps
-- Git & GitHub
-- Linux
-- PowerShell
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,git,github,linux,bash,powershell,vscode" />
+</p>
 
 ---
 
